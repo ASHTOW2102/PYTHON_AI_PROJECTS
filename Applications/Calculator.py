@@ -19,4 +19,4 @@ try:
             print(f"There was an error")
 
 except Exception as e:
-    print("Enter a valid value of a and b")
+    print("Enter a valid value of a and b");
