@@ -1,5 +1,5 @@
 from openai import OpenAI
-key = "" #use you OpenAI API Key
+key = "" #use your OpenAI API Key
 
 messages = []
 
